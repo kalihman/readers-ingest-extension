@@ -1,2 +1,2 @@
-# readers-ingest-plugin
-Chrome plugin for reading and analyzing online article for good
+# Reader's Ingest Plugin
+Chrome plugin for reading and analyzing online articles for good
